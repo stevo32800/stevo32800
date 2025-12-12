@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @steve
-- 👀 I’m interested in data science and programming in general
-- 🌱 I’m currently learning python, JS, SQL and dart
-- 💞️ I’m looking to collaborate on Python tutorial
+Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
 
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+About Me 👋
+
+AI Engineer at Atos with a passion for leveraging technology to understand and protect our planet.
+
+I specialize in combining satellite data, computer vision, and AI to tackle real-world environmental challenges through Earth observation and geospatial analysis.
+Areas of Interest 🌍
+
+    🛰️ Remote Sensing & Earth Observation
+    🗺️ Geospatial Analysis & GIS
+    👁️ Computer Vision for Satellite Imagery
+    🤖 Large Language Models (LLMs) & AI Agents
+    📊 Data Science & Machine Learning
+
+Let's Connect! 💬
+
+I'm always excited to discuss:
+
+    Remote sensing applications and techniques
+    Computer vision for geospatial data
+    AI agents and LLM innovations
+    Environmental monitoring solutions
+    Data science best practices
+
+📫 Reach out: LinkedIn
 
 <!---
 stevo32800/stevo32800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
