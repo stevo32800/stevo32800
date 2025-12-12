@@ -1,33 +1,44 @@
-Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
+# Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
 
-About Me 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@steve.lacroix32" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" />
+  </a>
+</p>
 
-AI Engineer at Atos with a passion for leveraging technology to understand and protect our planet.
+## About Me 👋
 
-I specialize in combining satellite data, computer vision, and AI to tackle real-world environmental challenges through Earth observation and geospatial analysis.
-Areas of Interest 🌍
+AI Engineer at **Atos** with a passion for leveraging technology to understand and protect our planet.
 
-    🛰️ Remote Sensing & Earth Observation
-    🗺️ Geospatial Analysis & GIS
-    👁️ Computer Vision for Satellite Imagery
-    🤖 Large Language Models (LLMs) & AI Agents
-    📊 Data Science & Machine Learning
+I specialize in combining **satellite data**, **computer vision**, and **AI** to tackle real-world environmental challenges through Earth observation and geospatial analysis.
 
-Let's Connect! 💬
+## Areas of Interest 🌍
+
+- 🛰️ **Remote Sensing** & Earth Observation
+- 🗺️ **Geospatial Analysis** & GIS
+- 👁️ **Computer Vision** for Satellite Imagery
+- 🤖 **Large Language Models (LLMs)** & AI Agents
+- 📊 **Data Science** & Machine Learning
+
+## Let's Connect! 💬
 
 I'm always excited to discuss:
+- Remote sensing applications and techniques
+- Computer vision for geospatial data
+- AI agents and LLM innovations
+- Environmental monitoring solutions
+- Data science best practices
 
-    Remote sensing applications and techniques
-    Computer vision for geospatial data
-    AI agents and LLM innovations
-    Environmental monitoring solutions
-    Data science best practices
+**📫 Reach out:** [LinkedIn](https://www.linkedin.com/in/steve-l-49323188/) | [Medium](https://medium.com/@steve.lacroix32)
 
-📫 Reach out: LinkedIn
+---
 
-<a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
+⭐ *"Using AI and satellite data to make Earth observation accessible and actionable"*
+
+---
 
 <!---
 stevo32800/stevo32800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
