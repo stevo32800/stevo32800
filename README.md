@@ -1,9 +1,5 @@
 Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
 
-<a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-
 About Me 👋
 
 AI Engineer at Atos with a passion for leveraging technology to understand and protect our planet.
@@ -28,6 +24,9 @@ I'm always excited to discuss:
     Data science best practices
 
 📫 Reach out: LinkedIn
+<a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
 <!---
 stevo32800/stevo32800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
