@@ -1,6 +1,9 @@
 Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
 About Me 👋
 
 AI Engineer at Atos with a passion for leveraging technology to understand and protect our planet.
