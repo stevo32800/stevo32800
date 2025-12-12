@@ -1,14 +1,5 @@
 # Steve L. | AI Engineer & Remote Sensing Enthusiast 🛰️
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@steve.lacroix32" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" />
-  </a>
-</p>
-
 ## About Me 👋
 
 AI Engineer at **Atos** with a passion for leveraging technology to understand and protect our planet.
@@ -22,6 +13,16 @@ I specialize in combining **satellite data**, **computer vision**, and **AI** to
 - 👁️ **Computer Vision** for Satellite Imagery
 - 🤖 **Large Language Models (LLMs)** & AI Agents
 - 📊 **Data Science** & Machine Learning
+
+## Latest Articles ✍️
+
+I share insights and tutorials on [Medium](https://medium.com/@steve.lacroix32) about Earth Science, LLMs, and Data Science:
+
+📝 **[Land Cover Classification with Python and Spectral Indices](https://medium.com/@steve.lacroix32/land-cover-classification-with-python-and-spectral-indices-fe74494628bc)**  
+Learn how to classify land cover using Python and spectral indices from satellite imagery.
+
+📝 **[Downloading Sentinel-2 Satellite Images with Python](https://medium.com/@steve.lacroix32/downloading-sentinel-2-satellite-images-with-python-8048971904cd)**  
+A practical guide to accessing and downloading Sentinel-2 satellite data programmatically.
 
 ## Let's Connect! 💬
 
