@@ -24,6 +24,7 @@ I'm always excited to discuss:
     Data science best practices
 
 📫 Reach out: LinkedIn
+
 <a href="https://www.linkedin.com/in/steve-l-49323188/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
